@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://TU-SUBDOMINIO-VERCEL.vercel.app/miapp-latest.apk",
+  "forceUpdate": true,
+  "changelog": "Se optimizo el reproductor para TV Box y se agregaron favoritos."
+}
